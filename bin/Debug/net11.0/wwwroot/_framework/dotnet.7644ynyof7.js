@@ -5,7 +5,7 @@ const e=()=>(async()=>{try{return new WebAssembly.Module(Uint8Array.from(atob("A
   "mainAssemblyName": "FootballExplorer",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-OsZ0QrZGQMbrHej3x7BxbpJuLrJBV81KC7iCCeuuunA=",
+    "hash": "sha256-LuB6BBEHXORsH+td9tpvgNtc8yTOd5wWHyUyBr823uU=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.gyn70opcq7.js"
@@ -1468,18 +1468,18 @@ const e=()=>(async()=>{try{return new WebAssembly.Module(Uint8Array.from(atob("A
         "cache": "force-cache"
       },
       {
-        "payloadSize": 21584,
+        "payloadSize": 22096,
         "virtualPath": "FootballExplorer.wasm",
-        "name": "FootballExplorer.mv0sdci28z.wasm",
-        "hash": "sha256-cnDAcaoViulveLrFJ0dzqP5sqrTBBUKfuH1jZbPyaFU=",
+        "name": "FootballExplorer.1efupsh7fo.wasm",
+        "hash": "sha256-l92sk3sPq5CAEiAVOlOjusUFFhx4FmSAo6NGESQGruU=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "FootballExplorer.pdb",
-        "name": "FootballExplorer.lfjpiurdhi.pdb",
-        "hash": "sha256-oajHyeM1BWpNpSD7/hbWjJEsXimCyAQBIuRMC5dfvfY=",
+        "name": "FootballExplorer.1scfs3l527.pdb",
+        "hash": "sha256-j/k1bg8gPp/d5nOwlkIvzDni5XmalJURFxmbKRAj2yM=",
         "cache": "force-cache"
       }
     ],
