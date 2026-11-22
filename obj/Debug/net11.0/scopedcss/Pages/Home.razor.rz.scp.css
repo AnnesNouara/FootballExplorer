@@ -1,0 +1,116 @@
+
+/* Main dashboard */
+.dashboard[b-e8wmtkcjuk] {
+    min-height: 100vh;
+    padding: 25px;
+    color: #f1f5f9;
+    background-color: #0f172a;
+    font-family: Arial, sans-serif;
+}
+
+.dashboard h1[b-e8wmtkcjuk],
+.dashboard h2[b-e8wmtkcjuk],
+.dashboard h3[b-e8wmtkcjuk] {
+    color: #f1f5f9;
+}
+
+/* Header */
+.dashboard-header[b-e8wmtkcjuk] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.dashboard-header h1[b-e8wmtkcjuk] {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.dashboard-header p[b-e8wmtkcjuk] {
+    color: #94a3b8;
+}
+
+/* Welcome section */
+.welcome-section[b-e8wmtkcjuk] {
+    background: #172b25;
+    border: 1px solid #28533f;
+    padding: 28px;
+    border-radius: 12px;
+    margin-bottom: 35px;
+}
+
+.welcome-section h2[b-e8wmtkcjuk] {
+    margin-bottom: 10px;
+}
+
+.welcome-section p[b-e8wmtkcjuk] {
+    color: #94a3b8;
+}
+
+/* Section headings */
+.section-title[b-e8wmtkcjuk] {
+    font-size: 21px;
+    margin-bottom: 18px;
+    margin-top: 30px;
+}
+
+/* Competition and feature grids */
+.competition-grid[b-e8wmtkcjuk],
+.features-grid[b-e8wmtkcjuk] {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 18px;
+}
+
+/* Cards */
+.competition-card[b-e8wmtkcjuk],
+.feature-card[b-e8wmtkcjuk] {
+    background: #17202b;
+    border: 1px solid #293747;
+    border-radius: 12px;
+    padding: 22px;
+    transition: 0.2s ease;
+}
+
+.competition-card:hover[b-e8wmtkcjuk],
+.feature-card:hover[b-e8wmtkcjuk] {
+    border-color: #22c55e;
+    transform: translateY(-3px);
+}
+
+/* Competition cards */
+.competition-card span[b-e8wmtkcjuk] {
+    font-size: 30px;
+}
+
+.competition-card h3[b-e8wmtkcjuk],
+.feature-card h3[b-e8wmtkcjuk] {
+    margin-top: 12px;
+    font-size: 17px;
+}
+
+/* Card descriptions */
+.competition-card p[b-e8wmtkcjuk],
+.feature-card p[b-e8wmtkcjuk] {
+    color: #94a3b8;
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+/* Responsive layout */
+@media (max-width: 600px) {
+    .dashboard[b-e8wmtkcjuk] {
+        padding: 16px;
+    }
+
+    .dashboard-header h1[b-e8wmtkcjuk] {
+        font-size: 24px;
+    }
+
+    .competition-grid[b-e8wmtkcjuk],
+    .features-grid[b-e8wmtkcjuk] {
+        grid-template-columns: 1fr;
+    }
+}
