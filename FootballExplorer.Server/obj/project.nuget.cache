@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "968lX2xz1Jk=",
+  "success": true,
+  "projectFilePath": "/Users/annesnouara/FootballExplorer/FootballExplorer.Server/FootballExplorer.Server.csproj",
+  "expectedPackageFiles": [
+    "/Users/annesnouara/.nuget/packages/microsoft.aspnetcore.openapi/11.0.0/microsoft.aspnetcore.openapi.11.0.0.nupkg.sha512",
+    "/Users/annesnouara/.nuget/packages/microsoft.openapi/3.11.0/microsoft.openapi.3.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

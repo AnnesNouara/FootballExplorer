@@ -1,0 +1,11 @@
+@FootballExplorer.Server_HostAddress = http://localhost:5111
+
+GET {{FootballExplorer.Server_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{FootballExplorer.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

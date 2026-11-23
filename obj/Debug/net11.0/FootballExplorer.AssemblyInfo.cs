@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FootballExplorer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e16b0fd0fd48bc148ee61679450f3fd2208c3bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3a5e89890922424c10dc9f5a2d9b7b8028bceda")]
 [assembly: System.Reflection.AssemblyProductAttribute("FootballExplorer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FootballExplorer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

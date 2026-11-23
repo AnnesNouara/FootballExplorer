@@ -723,11 +723,11 @@
 /Users/annesnouara/FootballExplorer/obj/Debug/net11.0/ref/FootballExplorer.dll
 /Users/annesnouara/FootballExplorer/obj/Debug/net11.0/scopedcss/Pages/Home.razor.rz.scp.css
 /Users/annesnouara/FootballExplorer/obj/Debug/net11.0/FootballExplorer.sourcelink.json
-/Users/annesnouara/FootballExplorer/bin/Debug/net11.0/wwwroot/_framework/dotnet.7644ynyof7.js
-/Users/annesnouara/FootballExplorer/bin/Debug/net11.0/wwwroot/_framework/dotnet.7644ynyof7.js.gz
 /Users/annesnouara/FootballExplorer/obj/Debug/net11.0/compressed/oztwbgx4qa-{0}-yaq1ux0qqe-yaq1ux0qqe.gz
 /Users/annesnouara/FootballExplorer/obj/Debug/net11.0/compressed/8bawfcxh5k-{0}-yaq1ux0qqe-yaq1ux0qqe.gz
-/Users/annesnouara/FootballExplorer/obj/Debug/net11.0/compressed/89fvptx2oj-{0}-1efupsh7fo-1efupsh7fo.gz
-/Users/annesnouara/FootballExplorer/obj/Debug/net11.0/compressed/vngusnf8gn-{0}-1scfs3l527-1scfs3l527.gz
-/Users/annesnouara/FootballExplorer/obj/Debug/net11.0/compressed/sxug5tncrs-{0}-7644ynyof7-7644ynyof7.gz
-/Users/annesnouara/FootballExplorer/obj/Debug/net11.0/compressed/lgo5hed8xw-{0}-wti3pxqzs7-wti3pxqzs7.gz
+/Users/annesnouara/FootballExplorer/bin/Debug/net11.0/wwwroot/_framework/dotnet.5xuo730sq0.js
+/Users/annesnouara/FootballExplorer/bin/Debug/net11.0/wwwroot/_framework/dotnet.5xuo730sq0.js.gz
+/Users/annesnouara/FootballExplorer/obj/Debug/net11.0/compressed/89fvptx2oj-{0}-9la0e7uc1x-9la0e7uc1x.gz
+/Users/annesnouara/FootballExplorer/obj/Debug/net11.0/compressed/vngusnf8gn-{0}-2im83t6b2o-2im83t6b2o.gz
+/Users/annesnouara/FootballExplorer/obj/Debug/net11.0/compressed/sxug5tncrs-{0}-5xuo730sq0-5xuo730sq0.gz
+/Users/annesnouara/FootballExplorer/obj/Debug/net11.0/compressed/lgo5hed8xw-{0}-51fqxq9a9u-51fqxq9a9u.gz
